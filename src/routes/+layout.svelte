@@ -3,8 +3,8 @@
 	import { ParaglideJS } from '@inlang/paraglide-sveltekit';
 	import '../app.css';
 	import '$lib/styles/fonts.css';
-	import { Header } from '$lib/components/header';
-	import { Footer } from '$lib/components/footer';
+	import { Header } from '$lib/components/client/header';
+	import { Footer } from '$lib/components/client/footer';
 
 	let { children } = $props();
 </script>

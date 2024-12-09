@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { MenuItem } from '$lib/components/menuItem';
-	import { MenuCategories } from '$lib/components/menuCategories';
+	import { MenuItem } from '$lib/components/client/menuItem';
+	import { MenuCategories } from '$lib/components/client/menuCategories';
 	import type { Picture } from 'vite-imagetools';
 	import philadelphiaRoll from '$lib/assets/images/rolls/philadelphia.jpg?enhanced';
 	import dragonRoll from '$lib/assets/images/rolls/dragon.jpg?enhanced';
