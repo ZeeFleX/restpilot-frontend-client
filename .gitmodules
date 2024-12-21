@@ -1,6 +1,3 @@
 [submodule "src/lib/components"]
 	path = src/lib/components
 	url = git@github.com:ZeeFleX/restpilot-frontend-components.git
-[submodule "src/lib/types/shared"]
-	path = src/lib/types/shared
-	url = git@github.com:ZeeFleX/restpilot-shared-types.git
